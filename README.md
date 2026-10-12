@@ -80,6 +80,7 @@ One pattern recurs. A model blocks the named act and then reaches the same wrong
 
 ## Credits
 
+- Bernard Williams, *Ethics and the Limits of Philosophy* (1985), for the distinction between thick and thin ethical concepts that this project builds on.
 - ODCV-Bench, DMaS Lab, McGill University (MIT).
 - The *Teaching Claude Why* replication and its released transcripts and adapters: [Lessons_from_constituitional_AFT](https://github.com/Matthew-Bozoukov/Lessons_from_constituitional_AFT), [`matboz/odcv-qwen3.6-27b-transcripts`](https://huggingface.co/datasets/matboz/odcv-qwen3.6-27b-transcripts).
 - Anthropic, [*Teaching Claude Why*](https://alignment.anthropic.com/2026/teaching-claude-why) (2026).
